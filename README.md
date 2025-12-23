@@ -78,5 +78,4 @@ Example inputs include:
 - Displays:
     - Best Model Name
     - Best R² Score
-
     - Model comparison summary table
