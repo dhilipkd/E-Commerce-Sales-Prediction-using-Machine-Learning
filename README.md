@@ -79,3 +79,6 @@ Example inputs include:
     - Best Model Name
     - Best R² Score
     - Model comparison summary table
+
+## Author
+Dhilip K
