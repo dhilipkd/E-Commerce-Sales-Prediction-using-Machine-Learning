@@ -50,6 +50,11 @@ The models are evaluated using:
 - RMSE – Root Mean Squared Error
 A comparison summary is printed to identify the best model.
 
+<img width="1905" height="984" alt="image" src="https://github.com/user-attachments/assets/9e1c15d8-0feb-4305-90ce-3da8e80e9e03" />
+
+## App link
+https://e-commerce-sales-prediction-using-machine-learning-vok6ufrugcx.streamlit.app/
+
 ## Save Best Model
 ```python
 import joblib
